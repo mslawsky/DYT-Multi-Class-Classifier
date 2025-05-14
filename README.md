@@ -37,6 +37,7 @@ This project implements a convolutional neural network to classify images into o
 
 **Data Organization:**
 
+```plaintext
 project/
 │
 ├── data/
@@ -53,13 +54,13 @@ project/
 │   │       └── ...
 │   ├── val/
 │   │   ├── Type1/
-│   │   └── Type2/
-│   │   └── Type3/
+│   │   ├── Type2/
+│   │   ├── Type3/
 │   │   └── Type4/
 │   └── test/
 │       ├── Type1/
-│       └── Type2/
-│       └── Type3/
+│       ├── Type2/
+│       ├── Type3/
 │       └── Type4/
 │
 ├── src/
@@ -85,13 +86,13 @@ project/
 └── README.md
 
 
-
 ---
 
 ## Model Architecture 🧠
 
 A sample CNN architecture for 4-class classification:
 
+```python
 def create_model():
     model = tf.keras.models.Sequential([
         tf.keras.Input(shape=(IMG_HEIGHT, IMG_WIDTH, 3)),
@@ -111,6 +112,7 @@ def create_model():
         metrics=['accuracy']
     )
     return model
+```
 
 ---
 
