@@ -26,7 +26,7 @@ Carol Tuttle’s system identifies four distinct Types (Type 1, Type 2, Type 3, 
 
 - **Type 4**: Bold, striking, and still energy
 
-  ![Type 4 Celebrities](Type-4-Celebrities.png)
+![Type 4 Celebrities](Type-4-Celebrities.png)
 
 
 ---
