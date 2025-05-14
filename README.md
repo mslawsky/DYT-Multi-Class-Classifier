@@ -1,6 +1,33 @@
 # DYT Multi-Class Classifier
 
-This repository contains a multi-class classifier to recognize the four style types featured in Dressing Your Truth by Carol Tuttle.
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/)
+[![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.19+-green.svg)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3+-yellow.svg)](https://matplotlib.org/)
+
+A convolutional neural network implementation using TensorFlow for multi-class classification of the four energy profiles defined by Carol Tuttle in Dressing Your Truth. This project demonstrates building a CNN from scratch to recognize the four distinct types of beauty from celebrity images.
+
+## The Four Types of Beauty
+
+Carol Tuttle’s system identifies four distinct Types (Type 1, Type 2, Type 3, Type 4), each with its own natural movement, energy, and style guidelines. The idea is that when you dress in harmony with your Type, you not only look your best but also feel more confident and authentic.
+
+- **Type 1**: Bright, animated, and light energy
+
+![Type 1 Celebrities](Type-1-Celebrities.png)
+
+- **Type 2**: Soft, subtle, and flowing energy
+
+![Type 2 Celebrities](Type-2-Celebrities.png)
+
+- **Type 3**: Rich, dynamic, and active energy
+
+![Type 3 Celebrities](Type-3-Celebrities.png)
+
+- **Type 4**: Bold, striking, and still energy
+
+  ![Type 4 Celebrities](Type-4-Celebrities.png)
+
 
 ---
 
@@ -23,7 +50,10 @@ This repository contains a multi-class classifier to recognize the four style ty
 
 ## Project Overview
 
-This project implements a convolutional neural network to classify images into one of four Dressing Your Truth style types. The goal is to automate recognition of style profiles based on visual input, supporting personal styling and fashion tech applications.
+This project implements a multi-class convolutional neural network to classify images into one of four Dressing Your Truth style types. The goal is to automate recognition of style profiles based on visual input, supporting personal styling and fashion tech applications.
+
+
+---
 
 **Key Objectives:**
 - Load and preprocess a custom dataset of style images
@@ -137,9 +167,9 @@ Here's the corrected version with proper Markdown formatting for bullet points:
 
 ## Real-World Applications 🌍
 
-- Automated style recommendations  
-- Fashion e-commerce personalization  
-- Virtual styling assistants  
+- Automated profiling for the four distinct types
+- Natural movement, energy, and style guidelines  
+- Virtual personal styling and self-development assistants
 
 ---
 
@@ -164,7 +194,6 @@ Here's the corrected version with proper Markdown formatting for bullet points:
 
 - Data augmentation for improved generalization  
 - Advanced architectures (e.g., MobileNet, ResNet)  
-- Real-time style recognition via webcam  
 - Deployment as a web app  
 
 ---
