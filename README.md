@@ -50,7 +50,7 @@ Carol Tuttle’s system identifies four distinct Types (Type 1, Type 2, Type 3, 
 
 ## Project Overview
 
-This project implements a multi-class convolutional neural network to classify images into one of four Dressing Your Truth style types. The goal is to automate recognition of style profiles based on visual input, supporting personal styling and fashion tech applications.
+This project implements a multi-class convolutional neural network to classify images into one of four Dressing Your Truth style types. The goal is to automate recognition of style profiles based on visual input, supporting personal styling and lifestyle recommendations.
 
 
 ---
