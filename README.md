@@ -36,18 +36,18 @@ Individuals exhibit a primary and secondary type.
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Dataset Details](#dataset-details)
-- [Model Architecture](#model-architecture)
-- [Training Process](#training-process)
+- [Project Overview](#project-overview-)
+- [Key Objectives](#key-objectives-)
+- [Dataset Details](#dataset-details-)
+- [Model Architecture](#model-architecture-)
+- [Phase 1: Baseline Performance](#phase-1-implementation-plan-)
 - [Results](#results)
 - [Real-World Applications](#real-world-applications)
-- [Installation & Usage](#installation--usage)
-- [Key Learnings](#key-learnings)
-- [Future Improvements](#future-improvements)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-- [Repository Structure](#repository-structure)
+- [Tools](#tools-)
+- [Key Learnings](#key-learnings-)
+- [Future Improvements](#future-improvements-)
+- [Acknowledgments](#acknowledgments-)
+- [Contact](#contact-)
 
 ---
 
@@ -324,7 +324,6 @@ Based on these findings, Phase 1B will address:
 4. **Regularization**: Add additional regularization techniques to combat overfitting
 5. **Data Analysis**: Identify what visual features are driving Type 4 classifications
 
-### Class-Specific Performance
 
 ---
 
@@ -342,20 +341,6 @@ Based on these findings, Phase 1B will address:
 - More consistent input data
 - Improved model generalization
 
----
-
-## Training Process 🏋️
-
-- Train for 15-20 epochs (adjust as needed)  
-- Use categorical crossentropy loss and Adam optimizer  
-- Monitor both training and validation accuracy  
-
----
-
-## Results 📈
-
-- Report accuracy, confusion matrix, and sample predictions  
-- Include plots of training and validation accuracy/loss  
 
 ---
 
@@ -367,8 +352,7 @@ Based on these findings, Phase 1B will address:
 
 ---
 
-## Installation & Usage 🚀  
-**Prerequisites**  
+## Tools ⚒️ 
 - Python 3.6+  
 - TensorFlow 2.x  
 - NumPy  
