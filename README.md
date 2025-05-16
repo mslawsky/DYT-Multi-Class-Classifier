@@ -16,19 +16,20 @@ Individuals exhibit a primary and secondary type.
 
 - **Type 1**: Bright, animated, and light energy
 
-![Type 1 Celebrities](Type-1-Celebrities.png)
+<img src="Type-1-Celebrities.png" alt="Type 1 Celebrities" width="300"/>
 
 - **Type 2**: Soft, subtle, and flowing energy
 
-![Type 2 Celebrities](Type-2-Celebrities.png)
+<img src="Type-2-Celebrities.png" alt="Type 2 Celebrities" width="300"/>
 
 - **Type 3**: Rich, dynamic, and active energy
 
-![Type 3 Celebrities](Type-3-Celebrities.png)
+<img src="Type-3-Celebrities.png" alt="Type 3 Celebrities" width="300"/>
 
 - **Type 4**: Bold, striking, and still energy
 
-![Type 4 Celebrities](Type-4-Celebrities.png)
+<img src="Type-4-Celebrities.png" alt="Type 4 Celebrities" width="300"/>
+
 
 
 ---
