@@ -12,6 +12,8 @@ A convolutional neural network implementation using TensorFlow for multi-class c
 
 Carol Tuttle’s system identifies four distinct Types (Type 1, Type 2, Type 3, Type 4), each with its own natural movement, energy, and style guidelines. The idea is that when you dress in harmony with your Type, you not only look your best but also feel more confident and authentic.
 
+Individuals exhibit a primary and secondary type.
+
 - **Type 1**: Bright, animated, and light energy
 
 ![Type 1 Celebrities](Type-1-Celebrities.png)
